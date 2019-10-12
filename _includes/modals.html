@@ -1,0 +1,77 @@
+
+  <head>
+    <!-- Place your kit's code here -->
+    <script src="https://kit.fontawesome.com/0046c50f31.js" crossorigin="anonymous"></script>
+  </head>
+
+ <!-- Portfolio Modals -->
+ {% for post in site.posts %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2 align="center">{{ post.title }}</h2>
+							{% if post.video %}
+								<div align="center" style="margin-top: 2em"><iframe width="560" height="315" src="{{ post.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+							{% endif %}
+							<!--Launguage and Role-->
+							<ul align="center" class="list-inline item-details">
+                                {% if post.role %}
+                                    <li>Role: 
+                                        <strong>{{ post.role }}</strong>
+                                    </li>
+                                {% endif %}
+								{% if post.language %}
+                                    <li>Language(s): 
+                                        <strong>{{ post.language }}</strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.project-date %}
+                                    <li>Date: 
+                                        <strong>{{ post.project-date }}</strong>
+                                    </li>
+                                {% endif %}
+                            </ul>
+							<!--End of Launguage and Role-->
+                            {% if post.description %}
+								<h3>Game Overview</h3>
+                                <p class="small">{{ post.description }}</p>
+                            {% endif %}
+							{% if post.contribution %}
+								<h3>Contribution</h3>
+								<p class="small">{{ post.contribution }} <br></p>
+							{% endif %}
+							{% if post.awards %}
+								<strong>
+									<p class="small"><i class="fas fa-trophy"></i>      {{ post.awards }}</p>
+								</strong>
+							{% endif %}
+							<!--git hub link -->
+							{% if post.githubrepo %}
+								<a href="{{ post.githubrepo }}" target="_blank">
+									<h4><br><i class="fab fa-github"></i> View the code on Github <br></h4>
+								</a>
+							{% endif %}
+							
+							<ul class="photo-gallery">
+							  {% for image in post.images %}
+								<a href="{{ image.image_path }}" target="_blank"><li><img src="{{ image.image_path }}" alt="{{ image.title }}"/></li></a>
+							  {% endfor %}
+							</ul>
+							
+                            <!--<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}

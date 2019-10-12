@@ -1,0 +1,24 @@
+---
+layout: default
+title: No Signal
+modal-id: 4
+date: 2019-06-03
+img: NoSignal.png
+project-date: June 2019
+role: Lead Programmer, Project Management
+language: C# (Unity)
+description: No Signal is a game created in 30 hours for the University of Gloucestershire Game Jam 2019. The theme of the jam was 'Waves'. The game takes a unique look at the theme and follows a UFO hunter protagonist with a radio scanner that he uses to track down aliens. This game was created in a team of 3 programmers and 2 designers.
+summary: No Signal is a game created in 30 hours for the University of Gloucestershire Game Jam 2019. The theme of the jam was 'Waves'.
+awards: This Game was nominated in the Top 3 of the UOG Game Jam and was then shown at the end of year show, where it ultimately came 2nd. 
+contribution: In this project, I implemented the player movement, the radio scanner mechanic, level transitions. I also partly worked on the overall project management roles such as task assignment and asset importing. <br><br> Mechanics Developed<ul><li>Player Movement</li><li>Short Range Radio Tracker, a device that beeped at shorter intervals based on the players' distance to a goal item</li><li>Long Range Radio Tracker, a "menu" where the player has to tune to a specific frequency to see nodes that they can travel to on the map</li><li>Player Dialogue</li><li>Scene Transition System</li></ul>
+githubrepo: https://github.com/bubblemapgaming/UOG-GameJam2019
+video: https://www.youtube.com/embed/ASNdkMqeHWA
+
+images:
+  - image_path: /img/screenshots/NoSignal/screen1.png
+  - image_path: /img/screenshots/NoSignal/screen2.png
+  - image_path: /img/screenshots/NoSignal/screen3.png
+  - image_path: /img/screenshots/NoSignal/screen4.png
+  - image_path: /img/screenshots/NoSignal/screen5.png
+  - image_path: /img/screenshots/NoSignal/img1.jpg
+---
