@@ -4,7 +4,7 @@ email: lewis@bubblemap.co.uk
 url: https://github.com/bubblemapgaming
 description: "Lewis Hammond - Computer Games Programmer"
 keywords: ""
-skills: "Computer Games Programme"
+skills: "Computer Games Programmer"
 meta_author: Hammond Lewis
 
 # Google webmaster tools
@@ -43,6 +43,9 @@ social:
     url: http://twitter.com/bubblemapgames
   - title: github
     url: https://github.com/bubblemapgaming
+  - title: linkedin
+    url: https://www.linkedin.com/in/lewis-hammond-23b180178/
+    
 
 # Postal address (add as many lines as necessary)
 
