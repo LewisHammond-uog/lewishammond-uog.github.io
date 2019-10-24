@@ -22,7 +22,7 @@
 							{% if post.video %}
 								<div align="center" style="margin-top: 2em"><iframe width="560" height="315" src="{{ post.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 							{% else %}
-								<img src="img/portfolio/{{ post.img }}" width="560" height="315"/>
+								<img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
 							{% endif %}
 							<!--Launguage and Role-->
 							<ul align="center" class="list-inline item-details">
