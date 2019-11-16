@@ -3,7 +3,7 @@ layout: default
 title: MD2 Model Loader
 modal-id: 8
 date: 2019-05-21
-img: AndroidGolf.png
+img: MD2Loader.png
 project-date: June 2019 (1st Year)
 role: Solo Programmer
 language: C++ (OpenGL)
