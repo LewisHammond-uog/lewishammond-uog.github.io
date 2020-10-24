@@ -8,21 +8,13 @@ project-date: April 2020 (2nd Year)
 role: Project Lead, Programmer
 language: C# (Unity)
 
-description: I Can't See is a VR experience where the player takes the role of a blind person starting their day.<br> I Can't see was created as a group project for a Universtiy Module 'Experimental Games'. The concept was voted on by the student cohort and lecturers, becoming the most voted project<br>We wanted to make the main mechanics focusing on how a blind person would navigate their home. This would be difficult to translate into vr since the primary focus of VR is visuals. We used Scanner Sombre as an inspiration for how the player will navigate the house. The player will be able to see a glimpse of the house every time they create noise, that noise could be throwing an object on the ground, the players footsteps or even using their voice through a microphone. We wanted the mechanics to focus around normal everyday tasks such as brushing your teeth and making coffee.<br>Developing for VR and epecially a conecpt as unique as ours requires systems not found in traditonal games, you can find our more infomation about how we approached and implemented these systems in a number of <a href="https://icantseegame.blogspot.com/search/label/Design%2FImplementation%20Point">blog posts</a> we developed for the project. Additonally we kept a blog on the progress of the development of the game which can be found <a href="https://icantseegame.blogspot.com/search/label/Team%20Report">here</a>.
+description: I Can't See is a VR experience where the player takes the role of a blind person starting their day.<br> I Can't see was created as a group project for a Universtiy Module 'Experimental Games'. The concept was voted on by the student cohort and lecturers, becoming the most voted project.<br><br>We wanted to make the main mechanics focusing on how a blind person would navigate their home. This would be difficult to translate into vr since the primary focus of VR is visuals. We used Scanner Sombre as an inspiration for how the player will navigate the house. The player will be able to see a glimpse of the house every time they create noise, that noise could be throwing an object on the ground, the players footsteps or even using their voice through a microphone. We wanted the mechanics to focus around normal everyday tasks such as brushing your teeth and making coffee.<br><br>Developing for VR and epecially a conecpt as unique as ours requires systems not found in traditonal games, you can find our more infomation about how we approached and implemented these systems in a number of <a href="https://icantseegame.blogspot.com/search/label/Design%2FImplementation%20Point">blog posts</a> we developed for the project. Additonally we kept a blog on the progress of the development of the game which can be found <a href="https://icantseegame.blogspot.com/search/label/Team%20Report">here</a>.
 
 summary: I Can't See is a VR Experience where the player must get ready in the morning. The Twist is your are blind!
 
-contribution: This game was a group project consisting of 5 members, 3 programmers and 2 designers. I worked on the most the implementations of the background systems, for example VR interactions and Holdable Objects <br><br>Mechanics Implemented<ul><li>VR Interaction - (e.g. Picking Up Items, Opening Drawers, Turning On/Off Items, Water Taps)</li><li>Audio Generation for Dropping Items</li><li>Shader Implmentation - Creating Mutiple Effects at once</li><li>Shader Implmentation - Creating Effects where objects are dropped</li><li>Microphone Input Handling</li><li>Objective/Mission System</li></ul>
+contribution: This game was a group project consisting of 5 members, 3 programmers and 2 designers. I worked on the most the implementations of the background systems, for example VR interactions and Holdable Objects. <br>Mechanics Implemented:<ul><li>VR Interaction - (e.g. Picking Up Items, Opening Drawers, Turning On/Off Items, Water Taps)</li><li>Audio Generation for Dropping Items</li><li>Shader Implmentation - Creating Mutiple Effects at once</li><li>Shader Implmentation - Creating Effects where objects are dropped</li><li>Microphone Input Handling</li><li>Objective/Mission System</li></ul>
 
 githubrepo: https://github.com/LewisHammond-uog/ICantSee
 
 video: https://www.youtube.com/embed/Y96a9gyEJJQ
-
-images:
-  - image_path: /img/screenshots/Spacebased/Construction.png
-  - image_path: /img/screenshots/Spacebased/Race1.png
-  - image_path: /img/screenshots/Spacebased/Race2.png
-  - image_path: /img/screenshots/Spacebased/Race3.png
-  - image_path: /img/screenshots/Spacebased/TeamPic.jpg
-
 ---
