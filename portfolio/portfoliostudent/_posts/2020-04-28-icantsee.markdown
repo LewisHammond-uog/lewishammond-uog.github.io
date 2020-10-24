@@ -14,7 +14,16 @@ summary: Spacebased is a multiplayer party racing game where players construct t
 
 awards: This game was nominated as one of the best Level 4 Projects and was shown at the University end of year show <strong><a href="https://comx.glos.ac.uk/19/">(COMX)</a></strong>
 
-contribution: I was the only programmer in a group of 3 game design students and myself and the project was completed in 8 months. While I did not have to make a large design contribution, I had a significant amount of work to implement the planned features within the given deadlines. I also had to manage all of the asset importing into the unity project as none of my other team members had experience with Unity.<br><br>Mechanics Implemented<ul><li>Player Movement (Custom Player Walking (Construction Stage)​, Custom Driving Mechanics (Race Stage))</li><li>Part Fitting on to cars​ - Converting parts in boxes into data and 3d models for car parts</li><li>Part Fitting Minigame</li><li>Part Quality System - Part Quality having an effect on car properties</li><li>Conveyor Belt System</li><li>Custom Laps/Checkpoint/Car Position System</li><li>Custom Car Respawn System</li><li>Scene Transitions</li><li>Music and Ambient Audio System</li><li>Character Selection System</li></ul>
+contribution: This game was a group project consisting of 5 members, 3 programmers and 2 designers. I worked on the most the implementations of the background systems, for example VR interactions and Holdable Objects 
+<br><br>Mechanics Implemented
+<ul>
+    <li>VR Interaction - (e.g. Picking Up Items, Opening Drawers, Turning On/Off Items, Water Taps)</li>
+    <li>Audio Generation for Dropping Items</li>
+    <li>Shader Implmentation - Creating Mutiple Effects at once</li>
+    <li>Shader Implmentation - Creating Effects where objects are dropped</li>
+    <li>Microphone Input Handling</li>
+    <li>Objective/Mission System</li>
+</ul>
 
 githubrepo: https://github.com/bubblemapgaming/Spacebased
 
