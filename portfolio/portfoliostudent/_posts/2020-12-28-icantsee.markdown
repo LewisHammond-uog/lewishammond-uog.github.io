@@ -1,30 +1,32 @@
 ---
 layout: default
-title: Spacebased
+title: I Can't See 
 modal-id: 8
-date: 2019-06-07
-img: Spacebased.png
-project-date: June 2019 (1st Year)
-role: Solo Programmer, Project Management
+date: 2020-12-28
+img: ICantSee.png
+project-date: April 2020 (2nd Year)
+role: Project Lead, Programmer
 language: C# (Unity)
 
-description: Spacebased is a multiplayer party racing game where players construct their own cars. The game is split up into 2 stages.<br>The first is the construction stage where players are given 4 different part types to construct their cars (Wheels, Car Bodies, Engines and Turbos), each of these parts have 4 different quality options (Poor, Okay, Good, Epic), these qualities cannot be seen by players until parts are fitted to the car. Players have a limited amount of time to put these parts on their car before taking them into the race.<br>The race has the 4 players compete against each other with their different car part qualities influencing different aspects of the car (Handing, Boost, Max Speed, Acceleration etc.). 
+description: I Can't See is a VR experience where the player takes the role of a blind person starting their day.<br> I Can't see was created as a group project for a Universtiy Module 'Experimental Games'. The concept was voted on by the student cohort and lecturers, becoming the most voted project<br>We wanted to make the main mechanics focusing on how a blind person would navigate their home. This would be difficult to translate into vr since the primary focus of VR is visuals. We used Scanner Sombre as an inspiration for how the player will navigate the house. The player will be able to see a glimpse of the house every time they create noise, that noise could be throwing an object on the ground, the players footsteps or even using their voice through a microphone. We wanted the mechanics to focus around normal everyday tasks such as brushing your teeth and making coffee.<br>Developing for VR and epecially a conecpt as unique as ours requires systems not found in traditonal games, you can find our more infomation about how we approached and implemented these systems in a number of <a href="https://icantseegame.blogspot.com/search/label/Design%2FImplementation%20Point">blog posts</a> we developed for the project. Additonally we kept a blog on the progress of the development of the game which can be found <a href="https://icantseegame.blogspot.com/search/label/Team%20Report">here</a>.
 
-​summary: Spacebased is a multiplayer party racing game where players construct their own cars.
+summary: I Can't See is a VR Experience where the player must get ready in the morning. The Twist is your are blind!
 
-awards: This game was nominated as one of the best Level 4 Projects and was shown at the University end of year show <strong><a href="https://comx.glos.ac.uk/19/">(COMX)</a></strong>
+contribution: This game was a group project consisting of 5 members, 3 programmers and 2 designers. I worked on the most the implementations of the background systems, for example VR interactions and Holdable Objects 
+<br><br>Mechanics Implemented
+<ul>
+    <li>VR Interaction - (e.g. Picking Up Items, Opening Drawers, Turning On/Off Items, Water Taps)</li>
+    <li>Audio Generation for Dropping Items</li>
+    <li>Shader Implmentation - Creating Mutiple Effects at once</li>
+    <li>Shader Implmentation - Creating Effects where objects are dropped</li>
+    <li>Microphone Input Handling</li>
+    <li>Objective/Mission System</li>
+</ul>
 
-contribution: I was the only programmer in a group of 3 game design students and myself and the project was completed in 8 months. While I did not have to make a large design contribution, I had a significant amount of work to implement the planned features within the given deadlines. I also had to manage all of the asset importing into the unity project as none of my other team members had experience with Unity.<br><br>Mechanics Implemented<ul><li>Player Movement (Custom Player Walking (Construction Stage)​, Custom Driving Mechanics (Race Stage))</li><li>Part Fitting on to cars​ - Converting parts in boxes into data and 3d models for car parts</li><li>Part Fitting Minigame</li><li>Part Quality System - Part Quality having an effect on car properties</li><li>Conveyor Belt System</li><li>Custom Laps/Checkpoint/Car Position System</li><li>Custom Car Respawn System</li><li>Scene Transitions</li><li>Music and Ambient Audio System</li><li>Character Selection System</li></ul>
+githubrepo: https://github.com/LewisHammond-uog/ICantSee
 
-githubrepo: https://github.com/bubblemapgaming/Spacebased
-
-video: https://www.youtube.com/embed/Wice-oXM-5Y
+video: https://www.youtube.com/embed/Y96a9gyEJJQ
 
 images:
-  - image_path: /img/screenshots/Spacebased/Construction.png
-  - image_path: /img/screenshots/Spacebased/Race1.png
-  - image_path: /img/screenshots/Spacebased/Race2.png
-  - image_path: /img/screenshots/Spacebased/Race3.png
-  - image_path: /img/screenshots/Spacebased/TeamPic.jpg
 
 ---
