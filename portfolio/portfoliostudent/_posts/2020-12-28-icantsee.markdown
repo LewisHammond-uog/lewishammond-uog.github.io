@@ -28,5 +28,10 @@ githubrepo: https://github.com/LewisHammond-uog/ICantSee
 video: https://www.youtube.com/embed/Y96a9gyEJJQ
 
 images:
+  - image_path: /img/screenshots/Spacebased/Construction.png
+  - image_path: /img/screenshots/Spacebased/Race1.png
+  - image_path: /img/screenshots/Spacebased/Race2.png
+  - image_path: /img/screenshots/Spacebased/Race3.png
+  - image_path: /img/screenshots/Spacebased/TeamPic.jpg
 
 ---
