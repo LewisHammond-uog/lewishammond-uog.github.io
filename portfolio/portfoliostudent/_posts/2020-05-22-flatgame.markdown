@@ -1,0 +1,32 @@
+---
+layout: default
+title: 2Doods
+modal-id: 11
+date: 2020-05-22
+img: 2Doods.png
+project-date: May 2020 (2nd Year)
+role: Progammer
+language: C# (Unity)
+
+description: 2Doods is a puzzle game where the player must shift between a traditional 3D first-person perspective and a 2D perspective where the player is walking within the walls of the level, similar to a traditional platformer style of game. This idea opened a number of puzzles that we could create by creating certain elements that can only be completed in 3D and some only in 2D, as well as transferring objects between these two planes of interaction. This was inspired by the book series 'Flat Stanley' and Children's TV show 'Roy', both feature characters that have been 'flattened' and can do things such as slipping through gaps in door frames.<br><br>Documentation created for this project can be found for both <a href="/confluence_pages/2Doods/Pre-Production.html">Pre-Production</a> and <a href="/confluence_pages/2Doods/Production.html">Production</a>
+
+summary: A 2D/3D Hybrid Puzzle Game where players must move between the 2D and 3D world to escape an abandoned lab
+
+contribution: I was the programmer in a team of 2, one programmer and one designer, so implemented all of the features present in the game. <br>Features Implemented:<ul><li>3D Movement</li><li>2D Movement</li><li>Transision between 3D and 2D Movement, including the transision of held objects</li><li>Item Pickup</li><li>Interactable Items (i.e Door Opening, Pipe Releveal)</li><li>Water Rising</li><li>Water Visual Effect</li><li>Item Pickup VFX</li></ul>
+
+githubrepo: https://github.com/LewisHammond-uog/FlatGame
+
+video: https://www.youtube.com/embed/3pJ9d5jxxW0
+
+images:
+  - image_path: /img/screenshots/2Doods/screen-1.png
+  - image_path: /img/screenshots/2Doods/screen-2.png
+  - image_path: /img/screenshots/2Doods/screen-3.png
+  - image_path: /img/screenshots/2Doods/screen-4.png
+  - image_path: /img/screenshots/2Doods/screen-5.png
+  - image_path: /img/screenshots/2Doods/screen-6.png
+  - image_path: /img/screenshots/2Doods/screen-7.png
+  - image_path: /img/screenshots/2Doods/screen-8.png
+  - image_path: /img/screenshots/2Doods/screen-9.png
+
+---
