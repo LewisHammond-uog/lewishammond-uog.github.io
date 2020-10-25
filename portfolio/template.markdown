@@ -10,7 +10,7 @@ language: C# (Unity)
 
 description: Spacebased is a multiplayer party racing game where players construct their own cars. The game is split up into 2 stages.<br>The first is the construction stage where players are given 4 different part types to construct their cars (Wheels, Car Bodies, Engines and Turbos), each of these parts have 4 different quality options (Poor, Okay, Good, Epic), these qualities cannot be seen by players until parts are fitted to the car. Players have a limited amount of time to put these parts on their car before taking them into the race.<br>The race has the 4 players compete against each other with their different car part qualities influencing different aspects of the car (Handing, Boost, Max Speed, Acceleration etc.). 
 
-​summary: Spacebased is a multiplayer party racing game where players construct their own cars.
+summary: Spacebased is a multiplayer party racing game where players construct their own cars.
 
 awards: This game was nominated as one of the best Level 4 Projects and was shown at the University end of year show <strong><a href="https://comx.glos.ac.uk/19/">(COMX)</a></strong>
 
