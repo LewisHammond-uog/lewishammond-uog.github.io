@@ -23,6 +23,7 @@ a:active,
 a.active {
     outline: 0;
     color: #{{ site.color.secondary }};
+    font-weight: bold;
 }
 
 h1,
