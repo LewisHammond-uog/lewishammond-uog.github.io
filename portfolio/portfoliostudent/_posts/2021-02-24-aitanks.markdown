@@ -18,4 +18,11 @@ githubrepo: https://github.com/LewisHammond-uog/AI-Tanks
 
 video: https://www.youtube.com/embed/vLTk3Eb3MGo
 
+images:
+  - image_path: /img/screenshots/AITanks/tanks1.png
+  - image_path: /img/screenshots/AITanks/tanks2.png
+  - image_path: /img/screenshots/AITanks/tanks3.png
+  - image_path: /img/screenshots/AITanks/tanks4.png
+  - image_path: /img/screenshots/AITanks/tanks5.png
+  
 ---
