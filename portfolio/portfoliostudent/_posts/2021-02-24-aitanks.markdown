@@ -1,0 +1,21 @@
+---
+layout: default
+title: AI Tanks
+modal-id: 13
+date: 2022-02-24
+img: TankAI.png
+project-date: December 2021 (Final Year)
+role: Progammer
+language: C# (Unity)
+
+description: The goal of this project was to create two tanks that fight eachother, with each tank having it's own AI technique. This project features both Behaviour Trees (Blue Team) and GOAP (Red Team). Throught the project I implemented a number of behaviours for both techiques, including Flee, Flank, Attack and Heal. Additionally both teams feature mutliple tanks which use blackboards to commuicate infomation to eachother, tanks will then respond to this infomation, for example if their teammate has seen an enemy. <br>I also developed a behaviour tree editor for the project so that I could edit the behaviours quickly and efficiently and understand the behaviours that were taking place as the game played, to aid debugging.<br>This project received a mark of 100/100 (Faultless)
+
+summary: An implementation of Behaviour Trees and Goal Oridentated Action planning to make 2 Teams of Tanks fight eachother
+
+contribution: I was the solo contributor to this project and thus implememented all of the AI code as well as creating an Editor for the Behaviour Tree behaviours within the Unity Editor<br>Features Implemented:<ul><li>Behaviour Tree Editor</li><li>Tank Navigation/Movement</li><li>Tank Shooting</li><li>Tank Senses (Vision and Hearing)</li><li>Attack Behaviour</li><li>Flee Behaviour</li><li>Flank Behaviour</li><li>Heal Behaviour</li><li>Sharing Infomation with Teammates</li><li>Utilising Team Infomation</li><li>Evaluating the best enemy to attack</li></ul>
+
+githubrepo: https://github.com/LewisHammond-uog/AI-Tanks
+
+video: https://www.youtube.com/embed/vLTk3Eb3MGo
+
+---
