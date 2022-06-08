@@ -14,14 +14,14 @@ description: Kurat is a real-time action board game where the Devil challenges a
 
 summary: Kurat is a real-time action board game where the Devil challenges a household on their power of friendship, using his favourite board game!
 
-contribution: I was the Lead Progammer for this project and the Project Manager. Our team consisted of 3 programmers and 2 designers<br>Features Implemented:<ul><li>Player Movement</li><li>Player Decisions</li><li>Level Spawning/Despawing</li><li>Characters (including Stats)</li><li>Story System</li><li>Items</li><li>Inventory</li><li>Cards/Decisions dictating gameplay scenarios</li><li>Card Procedural Generation</li><li>Enemy AI (Wildlife)</li><li></li><li>Health</li><li>Stamina</li><li>Player UI</li></ul>
+contribution: I was the Lead Progammer for this project and the Project Manager. Our team consisted of 3 programmers and 2 designers<br>Features Implemented:<ul><li>Player Movement</li><li>Player Decisions</li><li>Level Spawning/Despawing</li><li>Characters (including Stats)</li><li>Story System</li><li>Items</li><li>Inventory</li><li>Cards/Decisions dictating gameplay scenarios</li><li>Card Procedural Generation</li><li>Enemy AI (Wildlife)</li><li>Health</li><li>Stamina</li><li>Player UI</li></ul>
 
 video: https://www.youtube.com/embed/9Gz1FW2YB8A
 
 images:
-  - image_path: /img/screenshots/AITanks/kurat1.bmp
-  - image_path: /img/screenshots/AITanks/kurat2.bmp
-  - image_path: /img/screenshots/AITanks/kurat3.bmp
-  - image_path: /img/screenshots/AITanks/kurat4.bmp
+  - image_path: /img/screenshots/Kurat/kurat1.bmp
+  - image_path: /img/screenshots/Kurat/kurat2.bmp
+  - image_path: /img/screenshots/Kurat/kurat3.bmp
+  - image_path: /img/screenshots/Kurat/kurat4.bmp
   
 ---
