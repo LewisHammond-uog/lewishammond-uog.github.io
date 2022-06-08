@@ -1,0 +1,27 @@
+---
+layout: default
+title: Kurat
+modal-id: 14
+date: 2022-06-31
+img: Kurat.png
+project-date: May 2022 (Final Year)
+role: Progammer & Project Manager
+language: C# (Unity)
+
+awards: Nominated for Best Group Project & Best Trailer at <strong><a href="https://comx.uogs.co.uk/22/awards/">COMX</a></strong> end of year show
+
+description: Kurat is a real-time action board game where the Devil challenges a household on their power of friendship, using his favourite board game!<br><br>Together you must take on a variety of trials and tribulations, facing the creatures of the mythical Estonian wilderness on the way! These include The Plague Personified, Põhja konn and The Devil's Minions. Make decisions as a team to stay alive and overcome the Devil’s challenges.<br><br>During your journey, you must collect weapons and items to increase your chances of defeating the onslaught of enemies. Be careful as the Devil has a few tricks up his sleeve that will leave you cursed and at the mercy of the unforgiving wilderness
+
+summary: Kurat is a real-time action board game where the Devil challenges a household on their power of friendship, using his favourite board game!
+
+contribution: I was the Lead Progammer for this project and the Project Manager. Our team consisted of 3 programmers and 2 designers<br>Features Implemented:<ul><li>Player Movement</li><li>Player Decisions</li><li>Level Spawning/Despawing</li><li>Characters (including Stats)</li><li>Story System</li><li>Items</li><li>Inventory</li><li>Cards/Decisions dictating gameplay scenarios</li><li>Card Procedural Generation</li><li>Enemy AI (Wildlife)</li><li></li><li>Health</li><li>Stamina</li><li>Player UI</li></ul>
+
+video: https://www.youtube.com/embed/9Gz1FW2YB8A
+
+images:
+  - image_path: /img/screenshots/AITanks/kurat1.bmp
+  - image_path: /img/screenshots/AITanks/kurat2.bmp
+  - image_path: /img/screenshots/AITanks/kurat3.bmp
+  - image_path: /img/screenshots/AITanks/kurat4.bmp
+  
+---
