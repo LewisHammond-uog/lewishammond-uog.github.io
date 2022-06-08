@@ -2,7 +2,7 @@
 layout: default
 title: Kurat
 modal-id: 14
-date: 2019-06-08
+date: 2022-05-27
 img: Kurat.png
 project-date: May 2022 (Final Year)
 role: Progammer & Project Manager
