@@ -16,5 +16,5 @@ buildlink: https://github.com/LewisHammond-uog/LudumDare52/releases/tag/LDReleas
 
 
 images:
-  - image_path: /img/screenshots/NoSignal/ArtOfHarvest.png
+  - image_path: /img/portfolio/ArtOfHarvest.png
 ---
