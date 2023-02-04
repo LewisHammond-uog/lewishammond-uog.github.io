@@ -76,6 +76,24 @@
 								</a>
 							</div>
 							{% endif %}
+                            
+                            <ul align="center" class="list-inline">
+                                {% if post.role %}
+                                    <li>Role: 
+                                        <strong>{{ post.role }}</strong>
+                                    </li>
+                                {% endif %}
+								{% if post.language %}
+                                    <li>Language & Technologies: 
+                                        <strong>{{ post.language }}</strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.project-date %}
+                                    <li>Date: 
+                                        <strong>{{ post.project-date }}</strong>
+                                    </li>
+                                {% endif %}
+                            </ul>
 							
                             <br><br>
                             
