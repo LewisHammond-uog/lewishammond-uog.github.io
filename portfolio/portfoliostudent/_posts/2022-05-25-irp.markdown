@@ -1,6 +1,6 @@
 ---
 layout: default
-title: irp
+title: BSP Dungeon Generator
 modal-id: 16
 date: 2022-05-25
 img: DungeonGen.png
@@ -10,7 +10,7 @@ language: C# (Unity)
 
 awards: Nominated for Innovation and Research Award at <strong><a href="https://comx.uogs.co.uk/22/awards/">COMX</a></strong> end of year show
 
-description: A practical implementation of Binary Space Partitioning, Diffusion Limited Aggregation and Dykstra Maps to create a procedurally generated dungeon. The application allows the tweaking of the dungeon bounds, cell size, corridors, number of iterations and DLA particle count. This was created as part of my Universtiy Independent Research Project, the report that preceded the creation of this implementation can be read here: <a href="docs/DungeonGen/IRP.pdf">n Investigation into Methods for Procedural Dungeon Generation for Roguelike Game</a>
+description: A practical implementation of Binary Space Partitioning, Diffusion Limited Aggregation and Dykstra Maps to create a procedurally generated dungeon. The application allows the tweaking of the dungeon bounds, cell size, corridors, number of iterations and DLA particle count. This was created as part of my Universtiy Independent Research Project, the report that preceded the creation of this implementation can be read at <a href="docs/DungeonGen/IRP.pdf">An Investigation into Methods for Procedural Dungeon Generation for Roguelike Game</a>
 
 summary: A practical implementation of Binary Space Partitioning, Diffusion Limited Aggregation and Dykstra Maps to create a procedurally generated dungeon.
 
