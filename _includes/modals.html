@@ -42,19 +42,22 @@
                                     </li>
                                 {% endif %}
                             </ul>
+                            
+                            {% if post.awards %}
+                            <div align="center">
+								<strong>
+									<p class="small"><br><i class="fas fa-trophy"></i>{{ post.awards }}<br></p>
+								</strong>
+                            </div>
+							{% endif %}
 							<!--End of Launguage and Role-->
                             {% if post.description %}
-								<h3>Game Overview</h3>
+								<h3>Project Overview</h3>
                                 <p class="small">{{ post.description }}</p>
                             {% endif %}
 							{% if post.contribution %}
 								<h3>Contribution</h3>
-								<p class="small">{{ post.contribution }} <br></p>
-							{% endif %}
-							{% if post.awards %}
-								<strong>
-									<p class="small"><br><i class="fas fa-trophy"></i>      {{ post.awards }}<br></p>
-								</strong>
+								<p class="small">{{ post.contribution }}</p>
 							{% endif %}
 							<!--github link -->
 							{% if post.githubrepo %}
@@ -72,10 +75,10 @@
 									<h4><br><br><i class="fas fa-gamepad"></i> Download Build <br></h4>
 								</a>
 							</div>
-                            
-                            <br>
 							{% endif %}
 							
+                            <br><br>
+                            
 							<ul class="photo-gallery">
 							  {% for image in post.images %}
 								<a href="{{ image.image_path }}" target="_blank"><li><img src="{{ image.image_path }}" alt="{{ image.title }}"/></li></a>
