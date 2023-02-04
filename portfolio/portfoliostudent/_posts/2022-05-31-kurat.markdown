@@ -16,7 +16,7 @@ summary: Kurat is a real-time action board game where the Devil challenges a hou
 
 contribution: I was the Lead Progammer for this project and the Project Manager. Our team consisted of 3 programmers and 2 designers<br>Features Implemented:<ul><li>Player Movement</li><li>Player Decisions</li><li>Level Spawning/Despawing</li><li>Characters (including Stats)</li><li>Story System</li><li>Items</li><li>Inventory</li><li>Cards/Decisions dictating gameplay scenarios</li><li>Card Procedural Generation</li><li>Enemy AI (Wildlife)</li><li>Health</li><li>Stamina</li><li>Player UI</li></ul>
 
-video: https://www.youtube.com/embed/9Gz1FW2YB8A
+video: https://www.youtube.com/embed/-xd0T7QK0G
 
 images:
   - image_path: /img/screenshots/Kurat/kurat1.bmp
