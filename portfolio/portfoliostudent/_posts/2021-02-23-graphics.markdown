@@ -8,7 +8,7 @@ project-date: December 2021 (Final Year)
 role: Solo Programmer
 language: C++, OpenGL
 
-description: I have created an OpenGL engine created from scratch, to demonstrate the full forward rendering pipeline implementing: Fragment Shaders, Vertex Shaders, Geometry Shaders and Tesselation. The project features movable and fully customizable directional lights, point lights and spotlights with shadows supported for directional lights and spot lights. The application imports major model types (obj, fbx and blend) and uses an object-oriented entity system. A debug utility menu allowing the user to customize the lighting settings and drawing options (VSync, MSAA and Wireframe).
+description: "I have created an OpenGL engine created from scratch, to demonstrate the full forward rendering pipeline implementing/: Fragment Shaders, Vertex Shaders, Geometry Shaders and Tesselation. The project features movable and fully customizable directional lights, point lights and spotlights with shadows supported for directional lights and spot lights. The application imports major model types (obj, fbx and blend) and uses an object-oriented entity system. A debug utility menu allowing the user to customize the lighting settings and drawing options (VSync, MSAA and Wireframe)."
 
 summary: An OpenGL engine created from scratch, to demonstrate the full rendering pipeline with OpenGL
 
