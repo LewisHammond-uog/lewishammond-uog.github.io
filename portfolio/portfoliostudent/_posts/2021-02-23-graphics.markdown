@@ -2,7 +2,7 @@
 layout: default
 title: OpenGL Graphics Engine
 modal-id: 18
-date: 2022-12-12
+date: 2021-12-12
 img: OpenGLEngine.png
 project-date: December 2021 (Final Year)
 role: Solo Programmer
