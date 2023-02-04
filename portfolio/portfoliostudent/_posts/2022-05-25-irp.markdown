@@ -3,8 +3,8 @@
 layout: default
 title: Kurat
 modal-id: 15
-date: 2022-05-26
-img: DungeonGenerator.png
+date: 2022-05-25
+img: DungeonGen.png
 project-date: May 2022 (Final Year)
 role: Solo Programmer & Researcher 
 language: C# (Unity)
