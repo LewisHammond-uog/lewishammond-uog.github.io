@@ -2,7 +2,7 @@
 layout: default
 title: OpenGL Graphics Engine
 modal-id: 18
-date: 2022-05-27
+date: 2022-12-12
 img: OpenGLEngine.png
 project-date: December 2021 (Final Year)
 role: Solo Programmer
@@ -12,9 +12,9 @@ description: "I have created an OpenGL engine created from scratch, to demonstra
 
 summary: An OpenGL engine created from scratch, to demonstrate the full rendering pipeline with OpenGL
 
-contribution: I was the solo programmer for this project<br>Features Implemented:<ul><li>OpenGL Rendering Pipeline Setup</li>><li>Vertex Shader</li>><li>Fragment Shader</li><li>Geometry Shader</li><li>Tessellation</li><li>Model/Texture Loading</li><li>Input Handiling</li><li>Scene Customization (with dearIMGui)</li><li></li></ul>
+contribution: I was the solo programmer for this project<br>Features Implemented:<ul><li>OpenGL Rendering Pipeline Setup</li><li>Vertex Shader</li><li>Fragment Shader</li><li>Geometry Shader</li><li>Tessellation</li><li>Model/Texture Loading</li><li>Input Handiling</li><li>Scene Customization (with dearIMGui)</li></ul>
 
-video: https://www.youtube.com/embed/-xd0T7QK0G
+video: https://www.youtube.com/embed/eGFziE45mBk
 
 images:
   - image_path: /img/screenshots/OpenGLEngine/image-1.png
