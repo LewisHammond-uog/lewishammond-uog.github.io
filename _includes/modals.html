@@ -56,11 +56,20 @@
 									<p class="small"><br><i class="fas fa-trophy"></i>      {{ post.awards }}<br></p>
 								</strong>
 							{% endif %}
-							<!--git hub link -->
+							<!--github link -->
 							{% if post.githubrepo %}
 							<div align="center">
 								<a href="{{ post.githubrepo }}" target="_blank">
 									<h4><br><br><i class="fab fa-github"></i> View the code on Github <br></h4>
+								</a>
+							</div>
+							{% endif %}
+                            
+                            <!--build link -->
+							{% if post.buildlink %}
+							<div align="center">
+								<a href="{{ post.buildlink }}" target="_blank">
+									<h4><br><br><i class="fab fa-gamepad-modern"></i> Download Build <br></h4>
 								</a>
 							</div>
 							{% endif %}
