@@ -59,26 +59,11 @@
 								<h3>Contribution</h3>
 								<p class="small">{{ post.contribution }}</p>
 							{% endif %}
-							<!--github link -->
-							{% if post.githubrepo %}
-							<div align="center">
-								<a href="{{ post.githubrepo }}" target="_blank">
-									<h4><br><br><i class="fab fa-github"></i> View the code on Github <br></h4>
-								</a>
-							</div>
-							{% endif %}
                             
-                            <!--build link -->
-							{% if post.buildlink %}
-							<div align="center">
-								<a href="{{ post.buildlink }}" target="_blank">
-									<h4><br><br><i class="fas fa-gamepad"></i> Download Build <br></h4>
-								</a>
-							</div>
-							{% endif %}
-                            
+                            <!--Build and Github-->
+                            {% if post.githubrepo or post.buildlink %}
                             <ul align="center" class="list-inline">
-								{% if post.buildlink %}
+								{% if post.githubrepo %}
                                     <li>
                                         <div align="center">
                                             <a href="{{ post.githubrepo }}" target="_blank">
@@ -86,9 +71,9 @@
                                             </a>
                                         </div>
                                     </li>
-                                 | 
+                                  |  
                                 {% endif %}
-                                {% if post.githubrepo %}
+                                {% if post.buildlink %}
                                     <li>
                                         <div align="center">
                                             <a href="{{ post.buildlink }}" target="_blank">
@@ -98,8 +83,9 @@
                                     </li>
                                 {% endif %}
                             </ul>
-							
-                            <br><br>
+							{% endif %}
+                            
+                            <br><br><br>
                             
 							<ul class="photo-gallery">
 							  {% for image in post.images %}
