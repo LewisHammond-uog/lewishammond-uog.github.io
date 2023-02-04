@@ -16,6 +16,8 @@ contribution: I was the solo programmer for this project<br>Features Implemented
 
 video: https://www.youtube.com/embed/eGFziE45mBk
 
+githubrepo: https://github.com/LewisHammond-uog/OpenGL-Engine
+
 images:
   - image_path: /img/screenshots/OpenGLEngine/image-1.png
   - image_path: /img/screenshots/OpenGLEngine/image-2.png
